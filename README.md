@@ -54,7 +54,7 @@ Fields:
 
 A booking belongs to one user and one property.
 
-#### 💬 Reviews
+### 💬 Reviews
 Fields:
 - id (Primary Key)
 - user_id (Foreign Key referencing Users)
